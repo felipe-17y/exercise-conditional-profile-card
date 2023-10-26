@@ -88,7 +88,7 @@
   cursor: pointer;
   text-align: center;
   border-bottom: 1px solid #2cd5ca;
-  transition: background-color 0.3s;
+  transition: background-color whi;
 }
 .widget ul li:hover > a {
   background-color: #2cd5ca;
